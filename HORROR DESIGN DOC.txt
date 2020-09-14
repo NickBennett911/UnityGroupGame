@@ -1,0 +1,31 @@
+Assets:
+	https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
+
+WORKING TITLE:
+	Little white church - google "little white church"
+
+PLOT:
+	try not to look like a bitch
+
+GAMEPLAY:
+	player inventory:
+		tail mix / chez mix
+		bottle of water
+		batteries (streatch)
+		(things that can be lost):
+		locket charm thing/picture
+		compus
+		keys
+		map
+	
+	dont drink the wine (your point of exit changes (random range of time))
+		the demonic activity amps up and put red tint over game
+
+	food and drink bar (no animation just fills up when eating/drinking)
+		
+	If you go back twice (looking for something) you cant leave
+		
+	crosses move to list of different positions
+
+	just do base shadow figures with trigger points that will spawn them in and they move
+		
